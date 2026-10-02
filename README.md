@@ -1,35 +1,14 @@
 # aerovisus.com
 
-The official website for Aerovisus, a modern web and digital systems company focused on high-performance websites, practical apps, managed hosting, ongoing support, and clean client-facing delivery.
+I built Aerovisus around operational work that gets scattered across email, spreadsheets, forms, and disconnected apps. I help make the workflow visible: how work comes in, which rules apply, who owns the next step, where handoffs happen, and how exceptions get handled.
 
-Aerovisus serves as the direct company site for building, launching, supporting, and maintaining modern digital infrastructure for small businesses, while also routing visitors to WebDiggity when they are looking for the public-facing tools and internet solutions side of the business.
+The company site gives that work a clear starting point, from process improvement and systems integration to practical software.
 
-## What this site does
+## Build choices
 
-- Presents Aerovisus services, offers, and positioning
-- Acts as the primary company presence for web development, app development, hosting, and support
-- Routes visitors to the right destination: Aerovisus or WebDiggity
-- Supports trust, lead generation, and future service expansion
-- Provides a production-ready foundation for ongoing updates and growth
+I kept the site mobile-first and lightweight. The public project overview lists HTML5, CSS3, vanilla JavaScript, and Node.js / Express support for site-side API behavior. I chose a small front end so the presentation stays fast and easy to follow.
 
-## Tech Used
+## Links
 
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Node.js / Express support for site-side API behavior
-- Lightweight client-side routing and interaction logic
-
-## Design approach
-
-- Clean, modern presentation with strong hierarchy and clear calls to action
-- Performance-minded structure without unnecessary complexity
-- Mobile-first responsiveness
-- Visual polish focused on credibility, clarity, and conversion
-- Flexible architecture for adding services, tools, and content over time
-
-Aerovisus is built to feel fast, capable, and trustworthy. The site is meant to communicate practical execution, not agency fluff.
-
-## Live Site
-
-https://aerovisus.com
+- [Aerovisus](https://aerovisus.com)
+- [Portfolio project notes](https://portfolio.aerovisus.com/#aerovisus)
