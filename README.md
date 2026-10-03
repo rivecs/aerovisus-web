@@ -1,14 +1,17 @@
-# aerovisus.com
+# Aerovisus
 
-I built Aerovisus around operational work that gets scattered across email, spreadsheets, forms, and disconnected apps. I help make the workflow visible: how work comes in, which rules apply, who owns the next step, where handoffs happen, and how exceptions get handled.
+Aerovisus and WebDiggity share the current company landing page, but the two routes serve different needs. Aerovisus is the operations and systems side: process improvement, integration, and automation. WebDiggity is for websites and digital tools for people and growing small businesses.
 
-The company site gives that work a clear starting point, from process improvement and systems integration to practical software.
+## Site decisions
 
-## Build choices
+The home page puts those choices next to each other and gives each a direct route. The project notes list HTML5, CSS3, and vanilla JavaScript, with light Node.js / Express support where needed. I kept the front end small because this page’s main job is to get the right visitor to the right part of the work.
 
-I built the front end with HTML5, CSS3, and vanilla JavaScript, with Node.js / Express support for site-side API behavior. I kept it mobile-first and lightweight so the presentation stays fast and easy to follow.
+## Public repository
+
+This repository contains project notes, not the production site source.
 
 ## Links
 
 - [Aerovisus](https://aerovisus.com)
-- [Portfolio project notes](https://portfolio.aerovisus.com/#aerovisus)
+- [WebDiggity](https://webdiggity.com)
+- [Portfolio notes](https://portfolio.aerovisus.com/#aerovisus)
